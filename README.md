@@ -38,3 +38,22 @@
    ```bash
    git clone https://github.com/<tu-usuario>/YoutubeAI-Extractor.git
    cd YoutubeAI-Extractor
+   ```
+2. **Crea y activa un entorno virtual**  
+   ```bash
+   git clopython -m venv venvYT
+   # Windows
+   venvYT\Scripts\activate
+   # macOS/Linux
+   source venvYT/bin/activate
+   ```
+3. **Instala las dependencias**  
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Configura las variables de entorno**  
+   ```bash
+   cp .env.example .env
+   #Edita .env y añade tu api key de gruq
+   ```
+   
