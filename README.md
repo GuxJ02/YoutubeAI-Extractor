@@ -56,4 +56,12 @@
    cp .env.example .env
    #Edita .env y añade tu api key de gruq
    ```
-   
+---
+## ▶️ Uso
+
+1. En `extractor.py`, configura la URL del vídeo:
+
+   ```python
+   url = "https://www.youtube.com/watch?v=TU_VIDEO_ID"
+   ```
+
