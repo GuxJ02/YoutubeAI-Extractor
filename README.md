@@ -64,4 +64,9 @@
    ```python
    url = "https://www.youtube.com/watch?v=TU_VIDEO_ID"
    ```
-
+2. Ejecuta el script:
+   ```bash
+   python extractor.py
+   # El script sacará por consola el video de yt transcrito y revisado por la IA
+   # y se copiará al portapapeles
+   ```
