@@ -36,7 +36,7 @@
 
 1. **Clona el repositorio**  
    ```bash
-   git clone https://github.com/<tu-usuario>/YoutubeAI-Extractor.git
+   git clone https://github.com/GuxJ02/YoutubeAI-Extractor.git
    cd YoutubeAI-Extractor
    ```
 2. **Crea y activa un entorno virtual**  
