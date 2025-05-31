@@ -54,7 +54,7 @@
 4. **Configura las variables de entorno**  
    ```bash
    cp .env.example .env
-   #Edita .env y añade tu api key de gruq
+   #Edita .env y añade tu api key de groq
    ```
 ---
 ## ▶️ Uso
