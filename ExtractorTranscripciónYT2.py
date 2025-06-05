@@ -6,11 +6,9 @@ from urllib.parse import urlparse, parse_qs
 from dotenv import load_dotenv
 load_dotenv()
 
-
-
 # Inicializa el cliente de Groq con la API key desde la variable de entorno
 client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
-url="https://www.youtube.com/watch?v=dkO0hkUfDjo";
+url="https://www.youtube.com/watch?v=LYp_zh6eksI";
 
 
 def extract_video_id(url):
